@@ -193,8 +193,8 @@
          <h3>contact info</h3>
          <a href="#"> <i class="fas fa-phone"></i> +123-456-7890 </a>
          <a href="#"> <i class="fas fa-phone"></i> +111-222-3333 </a>
-         <a href="#"> <i class="fas fa-envelope"></i> Nikhi@gmail.com </a>
-         <a href="#"> <i class="fas fa-map"></i> Kota, Karnataka - 576221</a>
+         <a href="#"> <i class="fas fa-envelope"></i> Nithu@gmail.com </a>
+         <a href="#"> <i class="fas fa-map"></i> Karnataka - 576221</a>
       </div>
 
       <div class="box">
