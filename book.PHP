@@ -122,8 +122,8 @@
          <h3>contact info</h3>
          <a href="#"> <i class="fas fa-phone"></i> +123-456-7890 </a>
          <a href="#"> <i class="fas fa-phone"></i> +111-222-3333 </a>
-         <a href="#"> <i class="fas fa-envelope"></i> nikhi@gmail.com </a>
-         <a href="#"> <i class="fas fa-map"></i> kota,karnataka - 400104 </a>
+         <a href="#"> <i class="fas fa-envelope"></i> nithu@gmail.com </a>
+         <a href="#"> <i class="fas fa-map"></i>karnataka - 400104 </a>
       </div>
 
       <div class="box">
